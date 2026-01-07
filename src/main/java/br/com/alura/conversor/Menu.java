@@ -1,11 +1,12 @@
 package br.com.alura.conversor;
 
 import java.util.Scanner;
+import java.util.Locale;
 
 public class Menu {
 
     public void exibirMenu() {
-        Scanner leitura = new Scanner(System.in);
+        Scanner leitura = new Scanner(System.in).useLocale(Locale.US);
         ConversorMoeda conversor = new ConversorMoeda();
         int opcao = 0;
 
