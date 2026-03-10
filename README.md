@@ -30,7 +30,6 @@ Aqui você pode converter moedas de forma simples, rápida e direto pelo termina
 - Real (BRL)
 - Dólar (USD)
 - Euro (EUR)
-- Libra (GBP)
 - Peso Argentino (ARS)
 
 ---
