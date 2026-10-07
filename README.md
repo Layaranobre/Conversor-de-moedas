@@ -1,6 +1,6 @@
 # 💱 Conversor de Moedas em Java
 
-Projeto desenvolvido como **challenge da Alura**, com o objetivo de praticar **Java**, consumo de **API**, requisições HTTP e organização de código no backend.
+Projeto desenvolvido, com o objetivo de praticar **Java**, consumo de **API**, requisições HTTP e organização de código no backend.
 
 Aqui você pode converter moedas de forma simples, rápida e direto pelo terminal 🚀
 
