@@ -10,7 +10,7 @@ import java.net.http.HttpResponse;
 
 public class ApiExchange {
 
-    private static final String API_KEY = "37d58554653212c43c82a072";
+    private static final String API_KEY = System.getenv("EXCHANGE_API_KEY");
     private static final String URL =
             "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/USD";
 
