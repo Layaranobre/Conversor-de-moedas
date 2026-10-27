@@ -102,6 +102,11 @@ Here you can convert currencies simply, quickly, and directly through the termin
 
 ---
 
+##  Proximas atualizações
+- [ ] Fazer o front-end do projeto
+
+---
+
 ## ▶️ How to run the project
 
 1. Clone this repository:
